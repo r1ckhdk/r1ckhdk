@@ -2,18 +2,20 @@
 
 I'm Rick.
 
-I am a geographer, but life has led me through an IT rabbit hole and as of now, I work as HPC sysadmin at @cnpem.
-I also write about random stuff on my self-hosted blog, [doityourblog](https://doityourblog.org/). (*since it is hosted at my own home and I do whatever I the blog might not be accessible
+I am a geographer, but life has led me through an IT rabbit hole and as of now, I work as HPC sysadmin at [CNPEM](https://cnpem.br/).
 
+---
 
-*"Sharing is caring"*
+> *"Sharing is caring"*
 
-*"The future has arrived — It’s just not evenly distributed yet."* (William Gibson)
+> *"The future has arrived — It’s just not evenly distributed yet."* (**William Gibson**)
 
+> *"Just take it easy, man!"* (**The Dude** from The Big Lebowski)
 
+---
 
-### Interests and hobbies
-- Music
+### 💡 Interests and hobbies
+- Music ([last.fm](https://www.last.fm/user/YoxScorpion))
 - Free and Open Source Software
 - Hacktivism
 - Self hosting
@@ -23,7 +25,7 @@ I also write about random stuff on my self-hosted blog, [doityourblog](https://d
 - Contributing to Wikipedia
 
 
-### How do I interact on the cyberspace
+### 💻 How I interact on the cyberspace
 - **OS**: Debian
 - **DE**: Gnome
 - **Browser**: Librewolf
