@@ -3,9 +3,16 @@
 I'm Rick.
 
 I am a geographer, but life has led me through an IT rabbit hole and as of now, I work as HPC sysadmin at @cnpem.
+I also write about random stuff on my self-hosted blog, [doityourblog](https://doityourblog.org/). (*since it is hosted at my own home and I do whatever I the blog might not be accessible
 
 
-## Interests and hobbies
+*"Sharing is caring"*
+
+*"The future has arrived — It’s just not evenly distributed yet."* (William Gibson)
+
+
+
+### Interests and hobbies
 - Music
 - Free and Open Source Software
 - Hacktivism
@@ -13,19 +20,21 @@ I am a geographer, but life has led me through an IT rabbit hole and as of now, 
 - Documentaries
 - Football (the one you *really* use your feet to play), skateboarding, tennis
 - Kung fu movies
+- Contributing to Wikipedia
 
 
-## How do I interact on the cyberspace
+### How do I interact on the cyberspace
 - **OS**: Debian
 - **DE**: Gnome
 - **Browser**: Librewolf
 - **Terminal**: Ghostty
 - **Shell**: zsh
 - **Text editor**: nvim (VSCodium when remote coding)
+- **IRC Client**: WeeChat
 
 
 
-## 📫 Contact me
+### 📫 Contact me
 
 **Email**: rick@riseup.net
 
