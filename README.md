@@ -15,7 +15,7 @@ I am a geographer, but life has led me through an IT rabbit hole and as of now, 
 ---
 
 ### 💡 Interests and hobbies
-- Music ([last.fm](https://www.last.fm/user/YoxScorpion))
+- Music
 - Free and Open Source Software
 - Hacktivism
 - Self hosting
