@@ -25,17 +25,6 @@ I am a geographer, but life has led me through an IT rabbit hole and as of now, 
 - Contributing to Wikipedia
 
 
-### 💻 How I interact on the cyberspace
-- **OS**: Debian
-- **DE**: Gnome
-- **Browser**: Librewolf
-- **Terminal**: Ghostty
-- **Shell**: zsh
-- **Text editor**: nvim (VSCodium when remote coding)
-- **IRC Client**: WeeChat
-
-
-
 ### 📫 Contact me
 
 **Email**: rick@riseup.net
